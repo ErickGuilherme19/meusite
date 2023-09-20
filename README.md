@@ -6,6 +6,6 @@
    <h1>Este é o meu site novo</h1>
    <br>
      <p>este é um explo de paragrafo.</p>
-     <p>este é outro paragrafo ã</p>
+     <p>este é outro paragrafo </p>
    </body>
  </html>
